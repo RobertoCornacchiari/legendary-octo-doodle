@@ -5,7 +5,8 @@ Login into Crono with the credentials given in the App.tsx file
 Make the application "work", displaying the correct data
 
 # Ex. 3
-Save the token in the local storage to be used for future calls
+Save the token in the local storage to be used for future calls.
+If there is a token in the local storage you do not need to login.
 
 # Ex. 4
 Given a string of alphabetical characters in alphabetical order, where some of them may be duplicated ("ABCDEEEFGHHIJKLMNOPPQRST"),

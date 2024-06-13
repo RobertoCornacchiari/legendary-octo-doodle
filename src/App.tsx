@@ -3,9 +3,12 @@ import "./App.css";
 import InnerComponents from "./components/InnerComponents";
 
 /*
-  API url: https://dev.api.crono.one/Auth/Login
-  UserName: test+1@crono.one
-  Password: B23HD^g(a,6zjh
+  POST/ https://dev.api.crono.one/Auth/Login
+  These are the credentials for an account in Crono that has not payed yet
+  {
+    email: test+1@crono.one
+    password: B23HD^g(a,6zjh
+  }
 */
 
 function App() {
